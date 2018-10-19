@@ -1,0 +1,4 @@
+apiVersion: v1
+description: SSL issuers Helm chart
+name: ssl-issuers
+version: 1.0.0
